@@ -27,7 +27,7 @@ async def start(lel, message):
 
 @app.on_message(filters.command(["help"]))
 async def help(ha, message):
-    await app.send_message(message.chat.id, """**There is nothing no more..!\nJust forward me any file // message and I will return it back without forwaded tag.\n\nMade with ❤️ by @BotzCity**""", reply_markup=butt) 
+    await app.send_message(message.chat.id, """**There is nothing no more..!\nJust forward me any file // message and I will return it back without forwaded tag.\n\nMade with ❤️ by @ABHI_VILAN**""", reply_markup=butt) 
 
 @app.on_callback_query()
 async def button(app, update):
