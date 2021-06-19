@@ -18,6 +18,6 @@
 
 ## Credits
 
-- **[Me](https://t.me/Alain_xD)**
+- **[Me](https://t.me/ABHI_VILAN)**
 - **[InukaAsith](https://t.me/InukaAsith)** 
 - **[Pyrogram](https://docs.pyrogram.org)**
